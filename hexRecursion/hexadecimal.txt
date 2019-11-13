@@ -1,0 +1,6 @@
+761 in hexadecimal is: 0x2F9
+
+3888 in hexadecimal is: 0xF30
+
+1444 in hexadecimal is: 0x5A4
+
