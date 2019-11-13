@@ -1,0 +1,1 @@
+Recursively converts decimal to binary and pipes the conversion to an output file named "binary.txt"

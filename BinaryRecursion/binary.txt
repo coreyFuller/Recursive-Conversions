@@ -1,0 +1,8 @@
+68 in binary is 0b01000100
+
+69 in binary is 0b01000101
+
+9 in binary is 0b01001
+
+2 in binary is 0b010
+
